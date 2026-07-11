@@ -1,7 +1,7 @@
 {
-  "id": "codex-block-pet-eight-eyes-v4",
-  "displayName": "Codex 方块宠（八字眼版）",
-  "description": "失败状态使用两条直斜线八字眼的橙色无嘴方块 Codex 桌宠。",
+  "id": "codex-orange-block-pet",
+  "displayName": "Codex 橙色方块桌宠",
+  "description": "一个橙色无嘴方块桌宠，会根据 Codex 任务状态做出不同动作。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
