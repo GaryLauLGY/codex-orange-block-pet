@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/garylau/Work/Daily/output/codex-floating-pet-edge-repair-strict/spritesheet-clean.webp",
+  "file": "/Users/garylau/Work/Daily/output/codex-failed-eyes-repair/spritesheet-failed-eyes-v4.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -377,7 +377,7 @@
       "row": 5,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 15019,
+      "nontransparent_pixels": 20036,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -386,7 +386,7 @@
       "row": 5,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 14919,
+      "nontransparent_pixels": 18942,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -395,7 +395,7 @@
       "row": 5,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 14587,
+      "nontransparent_pixels": 15883,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -404,7 +404,7 @@
       "row": 5,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 15012,
+      "nontransparent_pixels": 18798,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -413,7 +413,7 @@
       "row": 5,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 14860,
+      "nontransparent_pixels": 18004,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -422,7 +422,7 @@
       "row": 5,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 14892,
+      "nontransparent_pixels": 14865,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -431,7 +431,7 @@
       "row": 5,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 14941,
+      "nontransparent_pixels": 17322,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -440,7 +440,7 @@
       "row": 5,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 14320,
+      "nontransparent_pixels": 18594,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },

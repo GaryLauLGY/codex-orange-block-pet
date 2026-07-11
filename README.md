@@ -13,6 +13,7 @@
 - 左右侧块是两只手，动作中不会重复生成手臂
 - 四条腿按左右两组对称排列
 - 已清除绿色与黄绿色抠图色边
+- 失败状态统一使用两条直斜线组成的八字眼
 - 所有角色动作图均以 image2 生成，再通过 Codex `hatch-pet` 流程组装和校验
 
 ## 动作状态
@@ -39,14 +40,14 @@ cd codex-orange-block-pet
 ./install.sh
 ```
 
-然后完全退出并重新打开 ChatGPT 桌面端，进入 **Settings → Pets**，选择 **Codex 方块宠（零绿边版）**，再输入 `/pet` 唤醒。
+然后完全退出并重新打开 ChatGPT 桌面端，进入 **Settings → Pets**，选择 **Codex 方块宠（八字眼版）**，再输入 `/pet` 唤醒。
 
 ### 手动安装
 
 将 `pet/` 中的 `pet.json` 和 `spritesheet.webp` 一起复制到：
 
 ```text
-~/.codex/pets/codex-block-pet-zero-green-v3/
+~/.codex/pets/codex-block-pet-eight-eyes-v4/
 ```
 
 ## 文件
@@ -56,6 +57,7 @@ cd codex-orange-block-pet
 - `preview/contact-sheet.png`：动作总览
 - `reports/validation.json`：图集结构与透明度校验报告
 - `reports/chroma-despill.json`：绿色边缘净化报告
+- `reports/failed-row-despill.json`：失败动画行的蓝色边缘净化报告
 
 ## 许可
 

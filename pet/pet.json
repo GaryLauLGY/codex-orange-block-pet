@@ -1,7 +1,7 @@
 {
-  "id": "codex-block-pet-zero-green-v3",
-  "displayName": "Codex 方块宠（零绿边版）",
-  "description": "严格清除全部绿色和黄绿色边缘污染的橙色无嘴方块 Codex 桌宠。",
+  "id": "codex-block-pet-eight-eyes-v4",
+  "displayName": "Codex 方块宠（八字眼版）",
+  "description": "失败状态使用两条直斜线八字眼的橙色无嘴方块 Codex 桌宠。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
